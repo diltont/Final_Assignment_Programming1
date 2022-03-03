@@ -6,7 +6,7 @@ In this assignment, I used n =100.i.e mortality rate in 100 people.In this assig
 The repository contains following files:<br>
 a)coviddata.csv: Contains covid information.<br>
 b)data.csv: ContainS vaccination information.<br>
-Both covid data an vaccination data files are obtained from the website.<br>
+Both covid data an vaccination data files are obtained from the website.[Link](https://ourworldindata.org/coronavirus).<br>
 c)Corona_App.py:Code for running the corona app using Streamlit library.<br>
 d)Final_Assignment.py: File that contains code efor data analysis and visualization.<br>
 
