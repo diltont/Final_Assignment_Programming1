@@ -14,7 +14,7 @@ e)Assignment_Description.docx
 ### Softwares:
 Following softwares are employed in the assignment:<br>
 Python- For data analysis.<br>
-Streamlit- For the app.<br>
+Streamlit- For the app. Strreamlit only run in raw .py file formats.<br>
 
 ### Installation
 To run Corona_App.py, Streamlit needs to be installed.<br>
