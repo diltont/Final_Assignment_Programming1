@@ -141,6 +141,8 @@ variables=['total_cases','total_deaths','total_cases_per_million','total_deaths_
 covars = st.sidebar.selectbox(
     "Select the variable:",
     options=variables)
+
+
 st.sidebar.markdown('🦠 **Covid-19 App** 🦠 ')
 st.sidebar.markdown(''' 
 This app shows different corona virus cases and deaths of the World, Europe and Asia.
