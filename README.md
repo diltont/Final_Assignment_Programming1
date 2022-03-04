@@ -9,6 +9,7 @@ b)data.csv: ContainS vaccination information.<br>
 Both covid data an vaccination data files are obtained from the website.[Link](https://ourworldindata.org/coronavirus).<br>
 c)Corona_App.py:Code for running the corona app using Streamlit library.<br>
 d)Final_Assignment.py: File that contains code efor data analysis and visualization.<br>
+e)Assignment_Description.docx
 
 ### Softwares:
 Following softwares are employed in the assignment:<br>
